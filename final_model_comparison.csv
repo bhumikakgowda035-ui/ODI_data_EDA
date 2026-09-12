@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Logistic Regression (Baseline),0.938,0.9478,0.9198,0.9336
+Random Forest (Baseline),0.928,0.9589,0.8861,0.9211
+Logistic Regression (Tuned),0.946,0.9605,0.9241,0.9419
